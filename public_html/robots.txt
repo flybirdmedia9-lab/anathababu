@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anantapurtravels.com/?sitemapindex.xml
+Sitemap: https://anantapurtravels.com/?sitemap665.xml
+Sitemap: https://anantapurtravels.com/?sitemap908.xml
+Sitemap: https://anantapurtravels.com/?sitemap836.xml
+Sitemap: https://anantapurtravels.com/?sitemap887.xml
+Sitemap: https://anantapurtravels.com/?sitemap437.xml
+Sitemap: https://anantapurtravels.com/goods.php?sitemap297.xml
